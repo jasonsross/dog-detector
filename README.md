@@ -10,7 +10,7 @@ This is an extension of the work done by Jeremy Jordan [here](https://github.com
 - **Transfer learning** - utilizing pre-trained models for accurate modeling of small datasets
 - ***Image data generators*** - load, preprocess, categorize, and batch train your image data with little memory usage
 - ***Automatic Image augmentation*** - increasing effective dataset size and model accuracy using image generator augmentation
-- ***Fine-tuning*** - pushing transfer learning accuracy to it's limit
+- ***Fine-tuning*** - understanding the deep Xception network and how to push transfer learning accuracy further
 
 ### Python Environment
 Please make sure your environment has the following and any dependencies. I recommend starting with Anaconda:
