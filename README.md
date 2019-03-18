@@ -7,7 +7,7 @@ This is an extension of the work done by Jeremy Jordan [here](https://github.com
 
 - **Multiclass image classification** - image data organization, loading, preprocessing, and general pipelines
 - **Imagenet models** - see how to use pre-trained models (from keras)
-- **Transfer learning** - adjusting pre-trained models for accurate modeling of small datasets
+- **Transfer learning** - utilizing pre-trained models for accurate modeling of small datasets
 - ***Image data generators*** - load, preprocess, categorize, and batch train your image data with little memory usage
 - ***Automatic Image augmentation*** - increasing effective dataset size and model accuracy using image generator augmentation
 - ***Fine-tuning*** - pushing transfer learning accuracy to it's limit
